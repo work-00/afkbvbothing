@@ -1,0 +1,17 @@
+{
+  "name": "simple-steam-idler",
+  "version": "1.0.0",
+  "description": "24/7 Steam ingame time idler (simple version)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "https://github.com/Gunthersuper",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^4.27.0",
+    "mineflayer-pathfinder": "^2.4.5",
+    "express": "^5.1.0"
+  }
+}
