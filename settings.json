@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "escolar.aternos.host", 
+    "ip": "feeder0000.aternos.me", 
     "port": 60028,   
     "version": "1.12.1"   
   },
